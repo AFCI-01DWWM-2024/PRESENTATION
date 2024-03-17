@@ -8,7 +8,7 @@ Tableau de passage
 | **Developpers**  | **Date**          | **Sujet** |     |
 | :--------------- |:---------------:| :-----| :----: |
 | Bérenger  |   08 Mars 2024        |  Georges BOOLE  |✅|
-| tHOMAS  | 08 Mars 2024            |   Apple |✅|
+| Thomas  | 08 Mars 2024            |   Apple |✅|
 | Marvin  | 15 Mars 2024         |    MIT |✅|
 | Céline  | 15 Mars 2024          |    Android |✅|
 | Axel  | 22 Mars 2024          |    Alan Turing ||
