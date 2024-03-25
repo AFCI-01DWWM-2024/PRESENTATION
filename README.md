@@ -11,8 +11,8 @@ Tableau de passage
 | Thomas  | 08 Mars 2024            |   Apple |✅|
 | Marvin  | 15 Mars 2024         |    MIT |✅|
 | Céline  | 15 Mars 2024          |    Android |✅|
-| Axel  | 22 Mars 2024          |    Alan Turing ||
-| Matthias  | 22 Mars 2024          |    IA ||
+| Axel  | 22 Mars 2024          |    Alan Turing |✅|
+| Matthias  | 22 Mars 2024          |    IA |✅|
 | Sarah  | 29 Mars 2024         |    CNIL - RGPD ||
 | Gaëtan  | 29 Mars 2024          |    ADAL ||
 | Rémy  | 05 Avril 2024          |    Crypto-Money ||
