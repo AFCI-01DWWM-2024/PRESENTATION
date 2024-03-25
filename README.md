@@ -14,7 +14,7 @@ Tableau de passage
 | Axel  | 22 Mars 2024          |    Alan Turing |✅|
 | Matthias  | 22 Mars 2024          |    IA |✅|
 | Sarah  | 29 Mars 2024         |    CNIL - RGPD ||
-| Gaëtan  | 29 Mars 2024          |    ADAL ||
+| Gaëtan  | 29 Mars 2024          |    ADA ||
 | Rémy  | 05 Avril 2024          |    Crypto-Money ||
 | Romain  | 05 Avril 2024          |    Robotique ||
 | Emeline  | 12 Avril 2024          |    Réalité artificielle ||
